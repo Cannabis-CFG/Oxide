@@ -33,6 +33,7 @@ I would like to personally thank a few members of said community for helping me 
  - Calytic - A truly amazing person I got the honor of truly knowing and connecting with towards the end. Always strong willed, and always has the best for the community in his mind when making decisions. As well as one of the main contributors to the uMod project. Amazing work, I can't wait to see where it goes.
  - Wulf - I know you and I never saw eye to eye, and I've had my fair share of fuck-ups, but you have taught me so many things that I could never explain on this readme file without it turning into another Stephen King book in terms of length. Just know that I, and the rest of the uMod team/community appreciate all the hard work you've done, and continue to do.
  - Whispers88 - Reaching out to me when I was feeling at my lowest. Making sure I was okay, as well as being a supportive person towards not only me, but plenty of others around him. Someone I truly look up to, and aspired to be one day. Just maybe without the procrastination.... All jokes, I swear!
+ - Sylynt - The man who started it all. You're the one who got me into servers, got me into the inner workings of Rust. You're the one who sparked my flame, and gave me the fuel to let it grow, with our humble beginnings with Rusted Degenerates, all the way to the end. Thank you. The best friend, and teammate I have ever met online.
  
 
 
