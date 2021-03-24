@@ -10,7 +10,8 @@ Some of my experience is as follows:
 - Owner of Default Rust, the last bastion for keeping old Rust alive.
 
 However, come February 2nd, 2021. I received a gameban from EAC in relation to Rust.
-I was heavily taken a-back, as I had never even thought about cheating on Rust, and I will admit; I have cheated on other online PvP type games. Namely: Escape from Tarkov
+I was heavily taken a-back, as I had never even thought about cheating on Rust, and I will admit; I have cheated on other online PvP type games. Namely: Escape from Tarkov.
+
 I appealed the same day, and as of March 3d, 2021 I will remained banned for my duration as a PC master race member.
 With this news, I decided to leave my Rust days behind, and with a heavy heart I promptly left the uMod developing community (though still active in the Discord from time to time) and decided to look abroad for other games/projects to take an interest to.
 
