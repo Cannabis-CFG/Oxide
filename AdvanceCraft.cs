@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace Oxide.Plugins
 {
-    [Info("AdvanceCraft", "Default", "1.0.0")] // Not made by Default. I don't know the original creator, but I rewrote the plugin to work with workbenches and added more items.
+    [Info("AdvanceCraft", "Default", "1.0.0")] // Not made by Default. I don't know the original creator, but I modified the plugin to work with workbenches and added more items.
     [Description("Allows the crafting of some uncraftable items")]
     internal class AdvanceCraft : RustPlugin
     {
